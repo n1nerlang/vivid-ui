@@ -6,7 +6,7 @@ Ensure you have `HttpEnabled` set to true in your Roblox Game Settings.
 
 ### Basic Implementation
 ```lua
-local Vivid = loadstring(game:HttpGet("[https://raw.githubusercontent.com/your-repo/Vivid/main/init.lua](https://raw.githubusercontent.com/your-repo/Vivid/main/init.lua)"))()
+local Vivid = loadstring(game:HttpGet("https://raw.githubusercontent.com/n1nerlang/vivid-ui/main/source.lua"))()
 
 -- Create a main window
 local MyWindow = Vivid:CreateWindow({
