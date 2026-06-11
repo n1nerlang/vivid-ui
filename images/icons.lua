@@ -10,7 +10,8 @@ Icons.Registry = {
     Folder = "rbxassetid://99356092113217",
     Settings = "rbxassetid://0000000000",
     Check = "rbxassetid://0000000000",
-    Warning = "rbxassetid://0000000000"
+    Warning = "rbxassetid://0000000000",
+    Key = "rbxassetid://84322228709421"
 }
 
 -- Function to retrieve an icon ID
