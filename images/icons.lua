@@ -8,9 +8,9 @@ Icons.Registry = {
     Minimize = "rbxassetid://119976625630400",
     Maximize = "rbxassetid://136359168487680",
     Folder = "rbxassetid://99356092113217",
-    Settings = "rbxassetid://0000000000",
-    Check = "rbxassetid://0000000000",
-    Warning = "rbxassetid://0000000000",
+    Settings = "rbxassetid://89574816236891",
+    Check = "rbxassetid://97631623472569",
+    Warning = "rbxassetid://120009455505635",
     Key = "rbxassetid://84322228709421"
 }
 
